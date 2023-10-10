@@ -1,0 +1,173 @@
+{
+    "hotels": [
+      {
+        "id": 1,
+        "city": "London",
+        "address": "123 London Street, London, UK",
+        "price": 150,
+        "image_url": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/233361425.jpg?k=73fd6e47d465ea5d1be1447b85e6968e5b90070d3333849c3444dcb2a8873043&o=&hp=1"
+      },
+      {
+        "id": 2,
+        "city": "London",
+        "address": "456 London Road, London, UK",
+        "price": 180,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwzYL5cXbRldu2LES17fIuOt0tgDtpSNAYKHkr5NhPhqHZLPcHYdZQud5uIL5dmVVRQtg&usqp=CAU"
+      },
+      {
+        "id": 3,
+        "city": "London",
+        "address": "789 London Avenue, London, UK",
+        "price": 200,
+        "image_url": "https://i0.wp.com/theluxurytravelexpert.com/wp-content/uploads/2021/08/best-luxury-hotels-paris.jpg?fit=1334%2C750&ssl=1"
+      },
+      {
+        "id": 4,
+        "city": "London",
+        "address": "1010 London Boulevard, London, UK",
+        "price": 220,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDEyh4_KhaHcN0haQHAW3fsgX1mwPSjRd5Cw&usqp=CAU"
+      },
+      {
+        "id": 5,
+        "city": "London",
+        "address": "1111 London Lane, London, UK",
+        "price": 170,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRS43JcCvDZtEm0rwXdQlOWivpjlxR7z2ecA&usqp=CAU"
+      },
+      {
+        "id": 6,
+        "city": "London",
+        "address": "2222 London Close, London, UK",
+        "price": 190,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRS43JcCvDZtEm0rwXdQlOWivpjlxR7z2ecA&usqp=CAU"
+      },
+      {
+        "id": 7,
+        "city": "Mumbai",
+        "address": "123 Mumbai Street, Mumbai, India",
+        "price": 200,
+        "image_url": "https://cf.bstatic.com/xdata/images/hotel/max500/103705059.jpg?k=daa975f51ed27294f81d05c52dc974b5f52ffba648ae8f4182a37db716319dd8&o="
+      },
+      {
+        "id": 8,
+        "city": "Mumbai",
+        "address": "456 Mumbai Road, Mumbai, India",
+        "price": 220,
+        "image_url": "https://theluxuryeditor.com/wp-content/uploads/2019/02/178793622.jpg"
+      },
+      {
+        "id": 9,
+        "city": "Mumbai",
+        "address": "789 Mumbai Avenue, Mumbai, India",
+        "price": 250,
+        "image_url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/7b/57/27/taj-mahal-tower-mumbai.jpg"
+      },
+      {
+        "id": 10,
+        "city": "Mumbai",
+        "address": "1010 Mumbai Boulevard, Mumbai, India",
+        "price": 180,
+        "image_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/337837683.jpg?k=446d539980eb7d05db6096585f6754aa9abcb1c4c047916cf528d8c50ff09984&o=&hp=1"
+      },
+      {
+        "id": 11,
+        "city": "Mumbai",
+        "address": "1111 Mumbai Lane, Mumbai, India",
+        "price": 190,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDSigoFESw92wiRGTkt2Wo2pMcsXkN61kjDg&usqp=CAU"
+      },
+      {
+        "id": 12,
+        "city": "Mumbai",
+        "address": "2222 Mumbai Close, Mumbai, India",
+        "price": 230,
+        "image_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/337837683.jpg?k=446d539980eb7d05db6096585f6754aa9abcb1c4c047916cf528d8c50ff09984&o=&hp=1"
+      },
+      {
+        "id": 13,
+        "city": "New York",
+        "address": "123 NY Street, New York, USA",
+        "price": 300,
+        "image_url": "https://image-tc.galaxy.tf/wijpeg-4unbvkgdsxckbiqd2l3ukpjdb/warwick-new-york-front-view.jpg"
+      },
+      {
+        "id": 14,
+        "city": "New York",
+        "address": "456 NY Road, New York, USA",
+        "price": 320,
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/a0/45/91/warwick-new-york.jpg?w=700&h=-1&s=1"
+      },
+      {
+        "id": 15,
+        "city": "New York",
+        "address": "789 NY Avenue, New York, USA",
+        "price": 280,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwzYL5cXbRldu2LES17fIuOt0tgDtpSNAYKHkr5NhPhqHZLPcHYdZQud5uIL5dmVVRQtg&usqp=CAU"
+      },
+      {
+        "id": 16,
+        "city": "New York",
+        "address": "1010 NY Boulevard, New York, USA",
+        "price": 310,
+        "image_url": "https://i0.wp.com/theluxurytravelexpert.com/wp-content/uploads/2021/08/best-luxury-hotels-paris.jpg?fit=1334%2C750&ssl=1"
+      },
+      {
+        "id": 17,
+        "city": "New York",
+        "address": "1111 NY Lane, New York, USA",
+        "price": 290,
+        "image_url": "https://images.trvl-media.com/hotels/6000000/5450000/5445500/5445478/6f85c118_b.jpg"
+      },
+      {
+        "id": 18,
+        "city": "New York",
+        "address": "2222 NY Close, New York, USA",
+        "price": 330,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwzYL5cXbRldu2LES17fIuOt0tgDtpSNAYKHkr5NhPhqHZLPcHYdZQud5uIL5dmVVRQtg&usqp=CAU"
+      },
+      {
+        "id": 19,
+        "city": "Paris",
+        "address": "123 Paris Street, Paris, France",
+        "price": 250,
+        "image_url": "https://secure.s.forbestravelguide.com/img/properties/shangri-la-hotel-paris/shangri-la-hotel-paris-LAppartement-Prince%20Bonaparte.jpg"
+      },
+      {
+        "id": 20,
+        "city": "Paris",
+        "address": "456 Paris Road, Paris, France",
+        "price": 270,
+        "image_url": "https://media.cntraveller.com/photos/611be822a106ea5ed309a1a0/16:9/w_2656,h_1494,c_limit/paris.jpg"
+      },
+      {
+        "id": 21,
+        "city": "Paris",
+        "address": "789 Paris Avenue, Paris, France",
+        "price": 240,
+        "image_url": "https://www.savoredjourneys.com/wp-content/uploads/2022/04/eiffel-tower-view-feat.jpg"
+      },
+      {
+        "id": 22,
+        "city": "Paris",
+        "address": "1010 Paris Boulevard, Paris, France",
+        "price": 260,
+        "image_url": "https://assets.vogue.com/photos/59823d164f0a7509d7f4ac63/master/pass/tout-luxurious-paris-hotel-suites.jpg"
+      },
+      {
+        "id": 23,
+        "city": "Paris",
+        "address": "1111 Paris Lane, Paris, France",
+        "price": 280,
+        "image_url": "https://secure.s.forbestravelguide.com/img/properties/shangri-la-hotel-paris/shangri-la-hotel-paris-LAppartement-Prince%20Bonaparte.jpg"
+      },
+      {
+        "id": 24,
+        "city": "Paris",
+        "address": "2222 Paris Close, Paris, France",
+        "price": 290,
+        "image_url": "https://assets.vogue.com/photos/59823d164f0a7509d7f4ac63/master/pass/tout-luxurious-paris-hotel-suites.jpg"
+      }
+    ]
+  }
+  
